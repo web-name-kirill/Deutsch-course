@@ -30,3 +30,23 @@ dich
 Ich liebe dich
 sprechen
 
+Ich spreche Deutsch
+Ich spreche Englisch
+Englisch
+Russisch
+und
+Ich spreche Englisch und Deutsch. 
+Ich spreche Deutsch und Englisch.
+
+sehen
+Ich sehe 
+es
+Ich sehe es
+jetzt
+Ich sehe es jetzt
+Ich sehe dich 
+studieren
+Ich studiere
+hier
+Ich studier hier
+
